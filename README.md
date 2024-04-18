@@ -1,2 +1,2 @@
 # Codecademy Recommendation Software
- Trying to provide alternative movie suggestions and the associated streaming platform available to view. Input is a movie title. 
+ Created a movie recommendation software which also gives available platforms to view each of the recommendations. It recommends the movies based on similar genres and returns a list of movies that match. The software also constantly updates the database if the user inputs data that is currently not stored in the alpha class objects.
